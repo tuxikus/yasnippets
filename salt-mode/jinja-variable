@@ -2,4 +2,4 @@
 # name: jinja-variable
 # key: jv
 # --
-{{ set $1 = $0 }}
+{{ $0 }}
