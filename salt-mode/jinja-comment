@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: jinja-comment
+# key: jc
+# --
+{# $0 #}
