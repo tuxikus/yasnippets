@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: if-else
+# expand-env: ((yas-indent-line 'fixed))
+# key: ife
+# --
+if $1:
+    $2
+else:
+    $0

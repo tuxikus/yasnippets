@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: noweb-reference
+# key: nowebref
+# --
+<<$0>>

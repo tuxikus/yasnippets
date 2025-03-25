@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jinja-for
+# key: for
+# --
+{% for $0%}
+
+{% endfor %}
