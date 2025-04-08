@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: lap
+# key: lap
+# --
+#+startup: latexpreview
+$0
